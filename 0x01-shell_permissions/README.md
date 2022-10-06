@@ -1,4 +1,1 @@
-Write a script that sets the mode of the file hello the same as olleh’s mode.
-
-The file hello will be in the working directory
-The file olleh will be in the working directory
+Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and allother user. Regular files should not be changed
