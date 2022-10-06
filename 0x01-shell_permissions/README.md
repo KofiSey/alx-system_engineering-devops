@@ -1,1 +1,1 @@
-Script that adds execute permission to the owner adn the group owner, and read permission to other users, to the file hello
+Script that adds execution permission to the owner, group owner adn the other users, to the file hello
