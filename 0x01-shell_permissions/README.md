@@ -1,1 +1,1 @@
-Script that called my_dir with permissions 751 in the working directories
+Script that changes the group owner to school for the file hello 
