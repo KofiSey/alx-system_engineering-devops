@@ -1,1 +1,4 @@
-Script that adds execution permission to the owner, group owner adn the other users, to the file hello
+Script that sets the permission to the file hello as follows:
+.owner: no permission at all
+.Group: no permission at all
+.Other users: all the permissions
