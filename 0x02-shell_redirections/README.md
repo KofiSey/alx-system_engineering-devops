@@ -1,1 +1,1 @@
-a script that displays the thirds line of the file iacta
+a script that creates a files named exactly \*\'Best School\'\*$\?\*\*\*\*\*:)
