@@ -1,1 +1,1 @@
-a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+ command that finds all empty files and directories in the current directory and all sub-directories.
