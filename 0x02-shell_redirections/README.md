@@ -1,1 +1,1 @@
-a script tjajt reverse its input
+a script that displays all users and their home directories, sorted by users
