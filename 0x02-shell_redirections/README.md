@@ -1,1 +1,1 @@
-a script that displays the number of lines that contain the patternbin in the file /etc/passwd
+a script that displays lines containing the pattern root and 3 lines after them in the file /etc/passwd
