@@ -1,1 +1,1 @@
-a script that deletes all the regular files (not the directories) with a .js extention that are not present i hte current directory and all its subfolders.
+a script that displays the 10 newest files in the current directory
