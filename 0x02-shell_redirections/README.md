@@ -1,2 +1,1 @@
-a script that displays all the lines in the file /etc.passwd that do not contain the pattern bin>README.md
-echo a script that displays all the lines in the file /etc.passwd that do not contain the pattern bin"
+display all of the file /etc/ssh/sshd_config starting with a letter
