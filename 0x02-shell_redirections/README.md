@@ -1,1 +1,2 @@
-a script that displays lines containing the pattern root and 3 lines after them in the file /etc/passwd
+a script that displays all the lines in the file /etc.passwd that do not contain the pattern bin>README.md
+echo a script that displays all the lines in the file /etc.passwd that do not contain the pattern bin"
