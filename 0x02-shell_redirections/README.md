@@ -1,1 +1,1 @@
-a script that counts your directories, make your directories count
+a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
